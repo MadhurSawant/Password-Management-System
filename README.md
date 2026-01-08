@@ -1,3 +1,4 @@
+Password Management System (Java)
 The Password Management System is a Java-based desktop application developed during the Semester 3 vacation as an academic learning project.
 The system is designed to securely store, retrieve, update, and manage user passwords using Core Java and Java Swing.
 
@@ -38,6 +39,8 @@ Advanced UI design and theming were not the objective.
 
 ✏️ Update existing passwords
 
+🗑️ Delete saved entries
+
 🔒 Passwords stored in encoded format
 
 💾 File-based data persistence
@@ -73,6 +76,8 @@ Developed During: Semester 3 Vacation
 Objective:
 
 Learn Java Swing
+<img width="1219" height="799" alt="Screenshot 2025-12-26 110725" src="https://github.com/user-attachments/assets/abfa4636-4082-4b4c-b652-64d8dff3ced9" />
+
 
 Understand file handling
 
